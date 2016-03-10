@@ -1,0 +1,27 @@
+{
+  "name": "npm-bitrix-auth",
+  "version": "0.1.0",
+  "description": "npm module for oauth your application with bitrix24 system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DmitriyVelychko/bitrix-auth.git"
+  },
+  "keywords": [
+    "npm",
+    "auth",
+    "bitrix24"
+  ],
+  "author": "Dmitriy Velychko",
+  "dependencies": {
+    "async": "~1.5.2"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DmitriyVelychko/bitrix-auth/issues"
+  },
+  "homepage": "https://github.com/DmitriyVelychko/bitrix-auth#readme"
+}
