@@ -1,6 +1,6 @@
 {
   "name": "npm-bitrix-auth",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "npm module for oauth your application with bitrix24 system",
   "main": "index.js",
   "scripts": {
